@@ -1,0 +1,8 @@
+.venv
+.env
+*.csv
+*.xlsx
+*.txt
+*__pycache__/
+*.log
+*.json
